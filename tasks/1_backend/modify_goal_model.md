@@ -10,6 +10,6 @@ public class Goal
 
     // ..
 
-    public string? Icon { get; set; }
+    public string Icon { get; set; }
 }
 ```
